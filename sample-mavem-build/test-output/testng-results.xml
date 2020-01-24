@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18666" started-at="2020-01-21T06:50:17Z" finished-at="2020-01-21T06:50:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18666" started-at="2020-01-21T06:50:17Z" finished-at="2020-01-21T06:50:35Z">
+      <class name="com.test.VerifyGooglePAge">
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.test.VerifyGooglePAge@4f933fd1]" name="startup" is-config="true" duration-ms="8935" started-at="2020-01-21T12:20:17Z" finished-at="2020-01-21T12:20:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="checkitle()[pri:0, instance:com.test.VerifyGooglePAge@4f933fd1]" name="checkitle" duration-ms="29" started-at="2020-01-21T12:20:25Z" finished-at="2020-01-21T12:20:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkitle -->
+        <test-method status="PASS" signature="cosebrowser()[pri:0, instance:com.test.VerifyGooglePAge@4f933fd1]" name="cosebrowser" is-config="true" duration-ms="1201" started-at="2020-01-21T12:20:26Z" finished-at="2020-01-21T12:20:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cosebrowser -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:com.test.VerifyGooglePAge@4f933fd1]" name="startup" is-config="true" duration-ms="6716" started-at="2020-01-21T12:20:27Z" finished-at="2020-01-21T12:20:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="checklogo()[pri:1, instance:com.test.VerifyGooglePAge@4f933fd1]" name="checklogo" duration-ms="64" started-at="2020-01-21T12:20:33Z" finished-at="2020-01-21T12:20:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checklogo -->
+        <test-method status="PASS" signature="cosebrowser()[pri:0, instance:com.test.VerifyGooglePAge@4f933fd1]" name="cosebrowser" is-config="true" duration-ms="1700" started-at="2020-01-21T12:20:33Z" finished-at="2020-01-21T12:20:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cosebrowser -->
+      </class> <!-- com.test.VerifyGooglePAge -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
